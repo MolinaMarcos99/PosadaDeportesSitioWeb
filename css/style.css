@@ -1,7 +1,7 @@
 /*INDEX*/
 nav{
     display: flex;
-    flex-wrap: nowrapgit ;
+    flex-wrap: nowrap;
 }
 footer{
     width: 100%;
